@@ -37,6 +37,7 @@ namespace ArcGISOnlineConnect
         {
             _CommandDoQuery = new RelayCommand(() => CmdDoQuery(), () => CanDoQuery());
         }
+        //Uma's comment
 
         /// <summary>
         /// Show the DockPane.
